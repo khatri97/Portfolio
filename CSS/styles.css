@@ -30,9 +30,7 @@ h3{
 .mid-container{
 margin: 100px 0;
 }
-.bottom-container{
-background-color: #66BFBF;
-}
+
 a{
   color: #11999B;
   font-family: 'montserrat', sans-serif;
@@ -67,29 +65,4 @@ hr{
   margin-left: auto;
   margin-right: auto;
 }
-.btn {
-  background: #11cdd4;
-  background-image: -webkit-linear-gradient(top, #11cdd4, #1199e);
-  background-image: -moz-linear-gradient(top, #11cdd4, #1199e);
-  background-image: -ms-linear-gradient(top, #11cdd4, #1199e);
-  background-image: -o-linear-gradient(top, #11cdd4, #1199e);
-  background-image: linear-gradient(to bottom, #11cdd4, #1199e);
-  -webkit-border-radius: 8;
-  -moz-border-radius: 8;
-  border-radius: 8px;
-  font-family: Arial;
-  color: #ffffff;
-  font-size: 20px;
-  padding: 10px 20px 0 20px;
-  text-decoration: none;
-}
 
-.btn:hover {
-  background: #30e3cb;
-  background-image: -webkit-linear-gradient(top, #30e3cb, #32bc4ac);
-  background-image: -moz-linear-gradient(top, #30e3cb, #32bc4ac);
-  background-image: -ms-linear-gradient(top, #30e3cb, #32bc4ac);
-  background-image: -o-linear-gradient(top, #30e3cb, #32bc4ac);
-  background-image: linear-gradient(to bottom, #30e3cb, #32bc4ac);
-  text-decoration: none;
-}
